@@ -19,7 +19,7 @@ let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel)
 let authorName = prompt('What is your full name?');
 
 // TODO: A variable named "adjective1" for a word used to describe something.
-
+let adjective1 = prompt('Please enter an adjective.')
 // TODO: A variable named "vehicle" for a mode of transation (e.g. plane, boat, etc.).
 
 // TODO: A variable named "vehiclePart" for a part of the vehicle you just named.
