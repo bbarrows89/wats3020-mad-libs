@@ -13,9 +13,6 @@
 
 let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel).');
 
-// Using the same prompt() command, populate the following variables:
-//
-// TODO: A variable named "authorName" for authorial attribution.
 let authorName = prompt('What is your full name?');
 
 let adjective1 = prompt('Please enter an adjective.');
@@ -31,31 +28,31 @@ let precious = prompt('Please enter a precious object.');
 let noiseMaker = prompt('Please name something that makes sound.');
 
 let crowdBehavior = prompt('Please enter an activity that people do as a group.');
-// TODO: A variable named "adjective2" for a word used to describe something.
+
 let adjective2 = prompt('Please enter an adjective.');
-// TODO: A variable named "adjective3" for a word used to describe something.
+
 let adjective3 = prompt('Please enter another adjective.');
-// TODO: A variable named "color" for the name of a color.
+
 let color = prompt('Please enter your favorite color.');
-// TODO: A variable named "familyMember" for the name of a family relationship (e.g. sister, father, etc.).
+
 let familyMember = prompt('Please enter the name of a family relationship (e.g. Sister, Father, etc.)');
-// TODO: A variable named "organ" for the name of a body organ (e.g. heart, liver, spleen, etc.).
+
 let organ = prompt('Please enter the name of a body organ.');
-// TODO: A variable named "bodyPart1" for the name of a body part.
+
 let bodyPart1 = prompt('Please enter another body part.');
-// TODO: A variable named "bodyPart2" for the name of a body part.
+
 let bodyPart2 = prompt('Please enter another body part.');
-// TODO: A variable named "bodyPart3" for the name of a body part.
+
 let bodyPart3 = prompt('Please enter another body part.');
-// TODO: A variable named "thing" for an object.
+
 let thing = prompt('Please enter the name of an object.');
-// TODO: A variable named "thing2" for an object you might give somebody you love.
+
 let thing2 = prompt('Please enter the name of an object you might give somebody you love.');
-// TODO: A variable named "thing3" for an object you might give somebody you like.
+
 let thing3 = prompt('Please enter the name of an object you might give somebody you like.');
-// TODO: A variable named "adjective4" for a word used to describe the vehicle.
+
 let adjective4 = prompt('Please enter a word to describe your chosen vehicle.');
-// TODO: A variable named "adjective5" for a word used to describe the vehicle.
+
 let adjective5 = prompt('Please enter another adjective that describes your chosen vehicle.');
 
 ////////////////////////////////////////////////////////////////////////
