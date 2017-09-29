@@ -50,13 +50,13 @@ let bodyPart3 = prompt('Please enter another body part.');
 // TODO: A variable named "thing" for an object.
 let thing = prompt('Please enter the name of an object.');
 // TODO: A variable named "thing2" for an object you might give somebody you love.
-let thing2 = prompt('Please enter the name of another object.');
+let thing2 = prompt('Please enter the name of an object you might give somebody you love.');
 // TODO: A variable named "thing3" for an object you might give somebody you like.
-let thing3 = prompt('Please enter the name of another object.');
+let thing3 = prompt('Please enter the name of an object you might give somebody you like.');
 // TODO: A variable named "adjective4" for a word used to describe the vehicle.
-let adjective4 = prompt('Please enter an adjective.');
+let adjective4 = prompt('Please enter a word to describe your chosen vehicle.');
 // TODO: A variable named "adjective5" for a word used to describe the vehicle.
-let adjective5 = prompt('Please enter another adjective.');
+let adjective5 = prompt('Please enter another adjective that describes your chosen vehicle.');
 
 ////////////////////////////////////////////////////////////////////////
 // Section Numbers
