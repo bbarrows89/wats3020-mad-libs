@@ -46,22 +46,14 @@ let adjective5 = prompt('Please enter another adjective that describes your chos
 
 ////////////////////////////////////////////////////////////////////////
 // Section Numbers
-//
-// The poem we are using has section numbers. Let's allow the user to
-// generate their own.
-//
+////////////////////////////////////////////////////////////////////////
 
 let userNumber = prompt('Please enter your favorite number that is not zero.');
 let number2 = userNumber**4 - 3;
 let number3 = number2 * 4 % userNumber;
 
-// DO NOT EDIT BELOW THIS LINE /////////////////////////////////////////
-//
-// The code below his line handles variable replacement into the HTML file.
-// Please do not edit this code unless you are attempting a stretch goal.
-
 let titleText = `O ${honorific}! My ${honorific}! by <small>${authorName}</small>`;
-let titleHeading = document.querySelector("#madlib-title");
+let titleHeading = document.querySelector('#madlib-title');
 titleHeading.innerHTML = titleText;
 
 let storyText = `
@@ -96,5 +88,5 @@ let storyText = `
     Walk the ${vehiclePart} my ${honorific} lies,
     Fallen ${adjective2} and ${adjective3}.
 `;
-let storyParagraph = document.querySelector("#madlib-text");
+let storyParagraph = document.querySelector('#madlib-text');
 storyParagraph.innerHTML = storyText;
